@@ -1,4 +1,4 @@
-# Hello, I am Sofia! I am a software developer 🤖
+# Hello, I am Sofia! I am a Software Developer
 
 ## Status 📝 
 
