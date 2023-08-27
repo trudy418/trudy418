@@ -36,7 +36,7 @@
 </div>
 </td>
 </tr>
-
+</table>
 <br/>  
 
 ## Contact 📲
