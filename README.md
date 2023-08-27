@@ -1,4 +1,4 @@
-### <div align="center">Hello, I am Sofia! I am a software developer 🤖</div>  
+# Hello, I am Sofia! I am a software developer 🤖
   
 
 ## Status 💻  
@@ -7,14 +7,15 @@
 - I'm working on startup project and I hope I can show it soon  
   
 
-- I'm learning Nest.js, Node.js and Python  
+- I'm learning Nest.js, Node.js and Python
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table>
+  <tr><td valign="top">
 
 
 
@@ -28,7 +29,7 @@
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top">
 
 
 
@@ -50,11 +51,9 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
