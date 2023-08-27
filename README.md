@@ -1,13 +1,13 @@
 # Hello, I am Sofia! I am a software developer 🤖
 
-## Status 💻  
+## Status 📝 
 
 - I'm working on startup project and I hope I can show it soon  
 - I'm learning Nest.js, Node.js and Python
 
 <br/>  
 
-## My Skill Set  
+## Skills 💻
 
 <table>
   
@@ -49,8 +49,8 @@
 
 <br/>  
 
-## Contact  
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sophia-kirpichonak-001340277" target="_blank">
+## Contact 📲
+<a href="https:/www.linkedin.com/in/sophia-kirpichonak-001340277/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
