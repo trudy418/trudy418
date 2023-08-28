@@ -1,4 +1,4 @@
 ## Status 📝 
 
-- working on startup project and I show it soon  
+- working on startup project
 - learning Nest.js and Python
