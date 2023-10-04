@@ -1,7 +1,6 @@
 ## Status 📝 
 
-- working on startup project
-- learning Nest.js and C
+- working on startup project "Okibro"
 
 ## Results ✅
 
