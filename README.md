@@ -1,6 +1,7 @@
 ## Status 📝 
 
 - working on startup project "Okibro"
+- learning "Google Cybersecurity Professional Certificate"
 
 ## Results ✅
 
