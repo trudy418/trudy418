@@ -1,7 +1,6 @@
 ## Status 📝 
 
-- working on startup project "Okibro"
-- learning "Google Cybersecurity Professional Certificate"
+- working on startup project "Okibro" (Nest.js)
 
 ## Results ✅
 
